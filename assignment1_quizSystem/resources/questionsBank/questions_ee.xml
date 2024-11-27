@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+    <!-- HARD Questions -->
+    <question difficulty="HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the purpose of a rectifier in an electronic circuit?</questionString>
+        <option>To amplify a signal</option>
+        <option answer="true">To convert AC to DC</option>
+        <option>To filter out noise</option>
+        <option>To measure current</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>Which component is used to stabilize voltage in power supplies?</questionString>
+        <option>Resistor</option>
+        <option>Inductor</option>
+        <option>Transformer</option>
+        <option>Capacitor</option>
+        <option answer="true">Zener Diode</option>
+        <option>Relay</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>Which electronic component is used to store electrical energy temporarily?</questionString>
+        <option>Inductor</option>
+        <option answer="true">Capacitor</option>
+        <option>Resistor</option>
+        <option>Transistor</option>
+    </question>
+
+    <!-- EASY Questions -->
+    <question difficulty="EASY">
+        <topic>Electronic Engineering</topic>
+        <questionString>What does the acronym LED stand for?</questionString>
+        <option>Light Emitting Display</option>
+        <option answer="true">Light Emitting Diode</option>
+        <option>Low Energy Device</option>
+        <option answer="true">Light Energy Device</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the unit of electrical resistance?</questionString>
+        <option>Volt</option>
+        <option answer="true">Ohm</option>
+        <option>Ampere</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Electronic Engineering</topic>
+        <questionString>Which of the following is a semiconductor material commonly used in diodes?</questionString>
+        <option answer="true">Silicon</option>
+        <option>Gold</option>
+        <option>Iron</option>
+        <option>Aluminum</option>
+    </question>
+
+    <!-- MEDIUM Questions -->
+    <question difficulty="MEDIUM">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the primary function of a capacitor in a circuit?</questionString>
+        <option>To amplify a signal</option>
+        <option answer="true">To store electrical energy</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Electronic Engineering</topic>
+        <questionString>Which law relates voltage, current, and resistance in a circuit?</questionString>
+        <option answer="true">Ohm's Law</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the role of a diode in an electronic circuit?</questionString>
+        <option answer="true">To allow current to flow in one direction only</option>
+        <option>To amplify the current</option>
+        <option>To store electrical charge</option>
+        <option>To change the voltage</option>
+    </question>
+
+    <!-- VERY HARD Questions -->
+    <question difficulty="VERY_HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>Which type of filter is used to allow only high frequencies to pass through?</questionString>
+        <option>Low-pass filter</option>
+        <option answer="true">High-pass filter</option>
+        <option>Band-pass filter</option>
+        <option>Notch filter</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the purpose of using a PLL (Phase-Locked Loop) in communication systems?</questionString>
+        <option>To filter noise</option>
+        <option answer="true">To synchronize signal frequency</option>
+        <option>To boost signal strength</option>
+        <option>To demodulate a signal</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the purpose of a transimpedance amplifier?</questionString>
+        <option answer="true">To convert current to voltage</option>
+        <option>To convert voltage to current</option>
+        <option>To amplify the signal</option>
+        <option>To filter high frequencies</option>
+    </question>
+</questions>
